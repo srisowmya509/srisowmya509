@@ -26,12 +26,15 @@ My work spans AI, mobile apps, and intelligent systems — combining creativity 
 
 ## 🌐 Live Projects
 
-| 💡 Project                          | Description                                                              | 🔗 Link |
-|------------------------------------|---------------------------------------------------------------------------|---------|
-| 🧠 Career Guidance Chatbot         | A chatbot that helps students with career suggestions based on responses | [Live App](https://career-guidance-chatbot-oaba8fveiagvsesyfnu837.streamlit.app/) |
-| 📊 Stock Price Prediction Dashboard | A visual dashboard comparing actual vs. predicted stock prices using LSTM | [Live App](https://dashboard-eobkebrjrluntlfzzdb7zp.streamlit.app/) |
-| 👥 Company Resource Hub            | A simple website offering company-specific preparation resources         | [Live App](https://srisowmya509.github.io/companytogether/) |
 
+💡 Project	Description	🔗 Link
+🧠 Career Guidance Chatbot	A chatbot that helps students with career suggestions based on responses	Live App
+
+📊 Stock Price Prediction Dashboard	A visual dashboard comparing actual vs. predicted stock prices using LSTM	Live App
+
+👥 Company Resource Hub	A simple website offering company-specific preparation resources	Live App
+
+⚠️ AI for Safer Crowds	An AI-powered tool that analyzes live video feeds to detect risky crowd patterns and provide instant safety insights	Live App
 
 ---
 
