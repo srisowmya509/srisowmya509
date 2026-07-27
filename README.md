@@ -5,188 +5,176 @@ Computer Science (Data Science) Student • Python Developer • AI/ML Enthusias
 </h3>
 
 <p align="center">
-Building intelligent software with Python, Machine Learning, Deep Learning, and Generative AI.
+Passionate about building intelligent software using Python, Machine Learning, Deep Learning, and Generative AI.
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 🎓 B.Tech in Computer Science & Data Science (2023–2027)
 
-🏫 Pragati Engineering College, Andhra Pradesh
+🏫 Pragati Engineering College, Andhra Pradesh, India
 
-💡 Passionate about building AI-powered software that solves real-world problems.
+💡 I enjoy building AI-powered applications that solve real-world problems through Machine Learning, Deep Learning, and intelligent software development.
 
-🚀 Interested in
+🚀 I'm actively exploring modern AI technologies while strengthening my software engineering skills through hands-on projects.
 
-- Artificial Intelligence
+---
+
+# 🌱 Currently Learning
+
+- 🤖 Large Language Models (LLMs)
+- 👁️ Vision Language Models (VLMs)
+- 📄 Document AI using LayoutLMv3
+- 🔥 LoRA & QLoRA Fine-Tuning
+- 🤗 Hugging Face Transformers
+- ⚡ PyTorch
+- ☁️ AWS Cloud
+- 🌐 Flask & REST APIs
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+- Python
+- Java
+- C
+- SQL
+
+### 🤖 AI & Machine Learning
+
 - Machine Learning
 - Deep Learning
-- Large Language Models (LLMs)
-- Vision Language Models (VLMs)
-- Software Engineering
-- Data Science
+- LSTM
+- NLP
+- Computer Vision
+- Scikit-learn
+- TensorFlow
+- Keras
+- PyTorch
+- Hugging Face Transformers
+- PEFT (LoRA & QLoRA)
 
----
+### 🌐 Web & App Development
 
-## 🌱 Currently Learning
+- Flask
+- Streamlit
+- Flutter
+- Firebase
+- REST APIs
+- HTML
+- CSS
+- JavaScript
 
-- 🤖 LLM Fine-Tuning (LoRA & QLoRA)
-- 📄 Document AI using LayoutLMv3
-- 👁 Vision Language Models
-- ⚡ PyTorch
-- 🤗 Hugging Face Transformers
-- ☁ AWS Cloud
-- 🚀 Flask & REST APIs
+### ☁️ Cloud & Tools
 
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
----
-
-### AI & Machine Learning
-
-Python • Scikit-Learn • TensorFlow • Keras
-
-PyTorch • Transformers • Hugging Face
-
-NumPy • Pandas • OpenCV
-
-LSTM • NLP • Computer Vision
-
----
-
-### Web & App Development
-
-Flutter
-
-Firebase
-
-Flask
-
-Streamlit
-
-REST APIs
-
-HTML
-
-CSS
-
-JavaScript
-
----
-
-### Tools
-
-Git
-
-GitHub
-
-VS Code
-
-Android Studio
-
-AWS
-
-ServiceNow
+- AWS
+- Git
+- GitHub
+- VS Code
+- Android Studio
+- ServiceNow
 
 ---
 
 # 🚀 Featured Projects
 
-## 📄 Document Intelligence using LayoutLMv3
+## 📄 Intelligent Document Understanding
 
-Document understanding using Microsoft's LayoutLMv3 for token classification and intelligent document processing.
+Built an intelligent document understanding system using Microsoft's LayoutLMv3 for document layout analysis, token classification, and information extraction.
 
-🔗 https://github.com/srisowmya509/document-understanding-layoutlmv3
+**Tech Stack:** Python • PyTorch • Hugging Face • LayoutLMv3
 
 ---
 
-## 🤖 Donut Vision Language Model
+## 🤖 OCR-Free Document Understanding
 
-OCR-free document understanding using NAVER Donut.
+Implemented an OCR-free document intelligence pipeline using the Donut Vision Language Model to extract structured information directly from documents.
 
-🔗 https://github.com/srisowmya509/donut-vlm-document-understanding
+**Tech Stack:** Python • Transformers • Vision Language Models
 
 ---
 
 ## 🧠 LoRA vs QLoRA Comparative Study
 
-Fine-tuning Large Language Models using PEFT techniques.
+Performed a comparative study on parameter-efficient fine-tuning techniques for Large Language Models, analyzing memory usage, training efficiency, and model performance.
 
-🔗 https://github.com/srisowmya509/llm-lora-comparative-study
-
----
-
-## 📈 Stock Price Prediction Dashboard
-
-LSTM-based deep learning model for stock forecasting.
-
----
-
-## 🎯 Career Guidance Chatbot
-
-AI chatbot developed using Python, Rasa and Streamlit.
+**Tech Stack:** Python • PyTorch • Hugging Face • PEFT
 
 ---
 
 ## 🚨 AI for Safer Crowds
 
-Machine Learning-based crowd safety prediction system.
+AI-powered crowd monitoring system that predicts congestion using machine learning to improve safety during large events.
+
+**Tech Stack:** Python • Streamlit • Machine Learning
+
+🌐 **Live Demo:** https://dashboard-eobkebrjrluntlfzzdb7zp.streamlit.app/
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Stock Price Prediction Dashboard
 
-<p align="center">
+Deep learning application that predicts stock prices using LSTM and provides interactive visualizations for trend analysis.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=srisowmya509&show_icons=true&theme=tokyonight"/>
+**Tech Stack:** Python • TensorFlow • LSTM • Streamlit
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srisowmya509&layout=compact&theme=tokyonight"/>
-
-</p>
+🌐 **Live Demo:** *(Add your Stock Price Dashboard URL here)*
 
 ---
 
-## 🔥 GitHub Streak
+## 💬 AI Career Guidance Chatbot
 
-<p align="center">
+An intelligent chatbot that provides personalized career guidance using Natural Language Processing and conversational AI.
 
-<img src="https://streak-stats.demolab.com?user=srisowmya509&theme=tokyonight"/>
+**Tech Stack:** Python • Rasa • Streamlit
 
-</p>
-
----
-
-## 🌐 Connect With Me
-
-📧 Email: sowmyag899@gmail.com
-
-💼 LinkedIn
-
-💻 LeetCode
-
-🏆 HackerRank
-
-🌐 Portfolio (Coming Soon)
+🌐 **Live Demo:** https://career-guidance-chatbot-oaba8fveiagvsesyfnu837.streamlit.app/
 
 ---
 
-## 💡 Quote
+## 👥 Company Resource Hub
 
-> **"I don't just write code—I build intelligent solutions that make technology more useful, accessible, and impactful."**
+A web platform that provides company-wise interview preparation resources, placement materials, and learning content for students.
 
-⭐ Thanks for visiting my profile!
+**Tech Stack:** HTML • CSS • JavaScript • Flask
 
+🌐 **Live Demo:** *(Add your Company Resource Hub URL here)*
+
+---
+
+# 🏆 Certifications
+
+- 🥇 ServiceNow Certified Implementation Specialist – Data Foundations (CIS-DF)
+- 🤖 Salesforce AI Associate
+- ☁️ AWS Cloud Virtual Internship
+- 💻 Google AI/ML Virtual Internship
+- 📘 NPTEL Programming in Java
+
+---
+
+# 💼 Coding Profiles
+
+- LinkedIn
+-  GitHub
+-  LeetCode
+-  HackerRank
+-  GeeksforGeeks
+-  CodeChef
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** sowmyag899@gmail.com
+
+📍 **Location:** Andhra Pradesh, India
+
+---
+
+# 💬 Quote
+
+> **"I don't just write code — I build intelligent solutions that transform ideas into impactful technology."**
