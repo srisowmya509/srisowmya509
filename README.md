@@ -1,61 +1,192 @@
 <h1 align="center">Hi 👋, I'm Gunnam Sri Sowmya</h1>
-<h3 align="center">✨ Future Data Scientist | Tech Explorer | AI & App Enthusiast</h3>
+
+<h3 align="center">
+Computer Science (Data Science) Student • Python Developer • AI/ML Enthusiast
+</h3>
+
+<p align="center">
+Building intelligent software with Python, Machine Learning, Deep Learning, and Generative AI.
+</p>
 
 ---
 
-🌟 **About Me**
+## 👩‍💻 About Me
 
-I’m Gunnam Sri Sowmya, a passionate and purpose-driven Computer Science (Data Science) undergrad from **Pragati Engineering College**, Andhra Pradesh. I'm fascinated by the power of data and AI to solve real-world problems and make lives better through technology.
+🎓 B.Tech in Computer Science & Data Science (2023–2027)
 
-My work spans AI, mobile apps, and intelligent systems — combining creativity with problem-solving to build tools that matter.
+🏫 Pragati Engineering College, Andhra Pradesh
 
----
+💡 Passionate about building AI-powered software that solves real-world problems.
 
-🧠 **Currently Exploring**
+🚀 Interested in
 
-- 🤖 Conversational AI & Chatbots  
-- 📈 Deep Learning for time series (LSTM)  
-- 📱 App Development using Flutter + Firebase  
-- ☁️ Flask, Streamlit & REST APIs  
-
----
-
-🌐 **Live Projects**
-
-## 🌐 Live Apps
-
-
-| 💡 Project                          | Description                                                              | 🔗 Link |
-|------------------------------------|---------------------------------------------------------------------------|---------|
-| 🧠 Career Guidance Chatbot         | A chatbot that helps students with career suggestions based on responses | [Live App](https://career-guidance-chatbot-oaba8fveiagvsesyfnu837.streamlit.app/) |
-| 📊 Stock Price Prediction Dashboard | A visual dashboard comparing actual vs. predicted stock prices using LSTM | [Live App](https://dashboard-eobkebrjrluntlfzzdb7zp.streamlit.app/) |
-| 👥 Company Resource Hub            | A simple website offering company-specific preparation resources         | [Live App](https://srisowmya509.github.io/companytogether/) |
-|  ⚠ AI for Safer Crowds                 |AI for Managing safety in large gatherings                            | [Live App](https://video-event-nt3nf2pr5e45pj9x7k2ijv.streamlit.app)|
-
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Large Language Models (LLMs)
+- Vision Language Models (VLMs)
+- Software Engineering
+- Data Science
 
 ---
 
-💼 **Coding Profiles**
+## 🌱 Currently Learning
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gunnam-sri-sowmya-642a692b8)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Gunnam_sri_sowmya06/)  
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-darkgreen?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/23a31a8r3b/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/23a31a4465)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/sowmya_4465)
-
----
-
-🛠️ **Tech I Work With**
-
-- **Languages**: Python, Java, C  
-- **Tools**: Git, Firebase, Flask, Streamlit, Android Studio  
-- **Domains**: Machine Learning, Data Science, Web & Mobile App Dev
+- 🤖 LLM Fine-Tuning (LoRA & QLoRA)
+- 📄 Document AI using LayoutLMv3
+- 👁 Vision Language Models
+- ⚡ PyTorch
+- 🤗 Hugging Face Transformers
+- ☁ AWS Cloud
+- 🚀 Flask & REST APIs
 
 ---
 
-💬 **Quote I Love**
+## 🛠 Tech Stack
 
-> *“I don't just write code — I solve problems, express ideas, and build bridges between people and technology.”*
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ---
+
+### AI & Machine Learning
+
+Python • Scikit-Learn • TensorFlow • Keras
+
+PyTorch • Transformers • Hugging Face
+
+NumPy • Pandas • OpenCV
+
+LSTM • NLP • Computer Vision
+
+---
+
+### Web & App Development
+
+Flutter
+
+Firebase
+
+Flask
+
+Streamlit
+
+REST APIs
+
+HTML
+
+CSS
+
+JavaScript
+
+---
+
+### Tools
+
+Git
+
+GitHub
+
+VS Code
+
+Android Studio
+
+AWS
+
+ServiceNow
+
+---
+
+# 🚀 Featured Projects
+
+## 📄 Document Intelligence using LayoutLMv3
+
+Document understanding using Microsoft's LayoutLMv3 for token classification and intelligent document processing.
+
+🔗 https://github.com/srisowmya509/document-understanding-layoutlmv3
+
+---
+
+## 🤖 Donut Vision Language Model
+
+OCR-free document understanding using NAVER Donut.
+
+🔗 https://github.com/srisowmya509/donut-vlm-document-understanding
+
+---
+
+## 🧠 LoRA vs QLoRA Comparative Study
+
+Fine-tuning Large Language Models using PEFT techniques.
+
+🔗 https://github.com/srisowmya509/llm-lora-comparative-study
+
+---
+
+## 📈 Stock Price Prediction Dashboard
+
+LSTM-based deep learning model for stock forecasting.
+
+---
+
+## 🎯 Career Guidance Chatbot
+
+AI chatbot developed using Python, Rasa and Streamlit.
+
+---
+
+## 🚨 AI for Safer Crowds
+
+Machine Learning-based crowd safety prediction system.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=srisowmya509&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srisowmya509&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=srisowmya509&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: sowmyag899@gmail.com
+
+💼 LinkedIn
+
+💻 LeetCode
+
+🏆 HackerRank
+
+🌐 Portfolio (Coming Soon)
+
+---
+
+## 💡 Quote
+
+> **"I don't just write code—I build intelligent solutions that make technology more useful, accessible, and impactful."**
+
+⭐ Thanks for visiting my profile!
 
